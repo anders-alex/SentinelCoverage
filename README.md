@@ -14,5 +14,5 @@ This Azure Workbook pulls the current Azure inventory via Azure Resource Graph e
 1. Create a new Azure Workbook via the Azure Portal.
 2. Open the Advanced Editor using the </> button on the toolbar.
 3. Ensure you are on the Gallery Template tab.
-4. Copy and paste the JSON text from the SentinelCoverage.workbook.
+4. Copy and paste the JSON text from the SentinelCoverage.workbook file.
 5. Save the workbook.
