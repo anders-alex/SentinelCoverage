@@ -1,4 +1,4 @@
-# Azure Workbook - Microsoft Sentinel Coverage
+# Azure Workbook - Microsoft Sentinel Coverage (Preview)
 This Azure Workbook pulls the current Azure inventory via Azure Resource Graph explorer and compares it with data written to one or more selected Log Analytics workspaces to determine which resources are sending data and which ones are not. This can be used to expose gaps in your logging coverage and/or identify inactive resources.
 
 ## Considerations
